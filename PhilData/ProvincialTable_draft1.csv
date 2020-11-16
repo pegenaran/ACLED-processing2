@@ -1,0 +1,145 @@
+,Province,Capital,,Population,Area,Density,Founded,Island_group,Region,Mun_LGUs,City_LGUs,Brgy_LGUs
+0,,,,,,,,,,,,
+1,,,,,,,,,,,,
+2,Abra,Bangued,0.2,241160,"4,165.25 km2(1,608.21 sq mi)",58/km2(150/sq mi),1846,Luzon,CAR,27,—,303
+3,Agusan del Norte [i],Cabadbaran[ii][7],0.7,691566,"3,546.86 km2(1,369.45 sq mi)",190/km2(490/sq mi),20 Sep 1907,Mindanao,XIII,10,2,252
+4,Agusan del Sur,Prosperidad,0.7,700653,"9,989.52 km2(3,856.98 sq mi)",70/km2(180/sq mi),1 Jan 1970[8],Mindanao,XIII,13,1,314
+5,Aklan,Kalibo,0.6,574823,"1,821.42 km2(703.25 sq mi)",320/km2(830/sq mi),8 Nov 1956[9],Visayas,VI,17,—,327
+6,Albay,Legazpi,1.3,1314826,"2,575.77 km2(994.51 sq mi)","510/km2(1,300/sq mi)",3 Apr 1574[10],Luzon,V,15,3,720
+7,Antique,San Jose de Buenavista,0.6,582012,"2,729.17 km2(1,053.74 sq mi)",210/km2(540/sq mi),10 Mar 1917,Visayas,VI,18,—,590
+8,Apayao,Kabugao[iii],0.1,119184,"4,413.35 km2(1,704.00 sq mi)",27/km2(70/sq mi),14 Feb 1995,Luzon,CAR,7,—,133
+9,Aurora,Baler,0.2,214336,"3,147.32 km2(1,215.19 sq mi)",68/km2(180/sq mi),13 Aug 1979,Luzon,III,8,—,151
+10,Basilan[iv],Lamitan[12],0.5,459367,"1,327.23 km2(512.45 sq mi)[13]",350/km2(910/sq mi),27 Dec 1973,Mindanao,BARMM[v],11,2,255
+11,Bataan,Balanga,0.8,760650,"1,372.98 km2(530.11 sq mi)","550/km2(1,400/sq mi)",1754,Luzon,III,11,1,237
+12,Batanes,Basco,0,17246,219.01 km2(84.56 sq mi),79/km2(200/sq mi),26 Jun 1783[14],Luzon,II,6,—,29
+13,Batangas,Batangas City,2.7,2694335,"3,119.72 km2(1,204.53 sq mi)","860/km2(2,200/sq mi)",8 Dec 1581,Luzon,IV-A,31,3,1078
+14,Benguet[vi],La Trinidad,0.8,791590,"2,826.59 km2(1,091.35 sq mi)",280/km2(730/sq mi),16 Jun 1966,Luzon,CAR,13,1,269
+15,Biliran,Naval,0.2,171612,536.01 km2(206.95 sq mi),320/km2(830/sq mi),11 May 1992,Visayas,VIII,8,—,132
+16,Bohol,Tagbilaran,1.3,1313560,"4,820.95 km2(1,861.38 sq mi)",270/km2(700/sq mi),22 Jul 1854[15],Visayas,VII,47,1,1109
+17,Bukidnon,Malaybalay,1.4,1415226,"10,498.59 km2(4,053.53 sq mi)",130/km2(340/sq mi),10 Mar 1917,Mindanao,X,20,2,464
+18,Bulacan,Malolos,3.3,3292071,"2,796.10 km2(1,079.58 sq mi)","1,200/km2(3,100/sq mi)",15 Aug 1578,Luzon,III,21,3,569
+19,Cagayan,Tuguegarao,1.2,1199320,"9,295.75 km2(3,589.11 sq mi)",130/km2(340/sq mi),29 Jun 1583[16],Luzon,II,28,1,820
+20,Camarines Norte,Daet,0.6,583313,"2,320.07 km2(895.78 sq mi)",250/km2(650/sq mi),15 Apr 1920[17],Luzon,V,12,—,282
+21,Camarines Sur[vii],Pili,1.9,1952544,"5,497.03 km2(2,122.42 sq mi)",360/km2(930/sq mi),27 May 1579[18],Luzon,V,35,2,1063
+22,Camiguin,Mambajao,0.1,88478,237.95 km2(91.87 sq mi),370/km2(960/sq mi),18 Jun 1966,Mindanao,X,5,—,58
+23,Capiz,Roxas,0.8,761384,"2,594.64 km2(1,001.80 sq mi)",290/km2(750/sq mi),10 Mar 1917,Visayas,VI,16,1,473
+24,Catanduanes,Virac,0.3,260964,"1,492.16 km2(576.13 sq mi)",170/km2(440/sq mi),26 Sep 1945,Luzon,V,11,—,315
+25,Cavite,Imus[19],3.6,3678301,"1,574.17 km2(607.79 sq mi)","2,300/km2(6,000/sq mi)",10 Mar 1614[20],Luzon,IV-A,17,6,829
+26,Cebu[viii],Cebu City[21],4.6,4632359,"5,342.00 km2(2,062.56 sq mi)","870/km2(2,300/sq mi)",27 Apr 1565,Visayas,VII,44,9,1203
+27,Cotabato,Kidapawan,1.4,1379747,"9,008.90 km2(3,478.36 sq mi)",150/km2(390/sq mi),1 Sep 1914[22],Mindanao,XII,17,1,543
+28,Davao de Oro,Nabunturan,0.7,736107,"4,479.77 km2(1,729.65 sq mi)",160/km2(410/sq mi),31 Jan 1998,Mindanao,XI,11,—,237
+29,Davao del Norte,Tagum,1,1016332,"3,426.97 km2(1,323.16 sq mi)",300/km2(780/sq mi),8 May 1967,Mindanao,XI,8,3,223
+30,Davao del Sur[ix],Digos,2.2,2265579,"4,607.59 km2(1,779.00 sq mi)","490/km2(1,300/sq mi)",1 Sep 1914,Mindanao,XI,9,2,414
+31,Davao Occidental,Malita,0.3,316342,"2,163.45 km2(835.31 sq mi)",150/km2(390/sq mi),28 Oct 2013,Mindanao,XI,5,—,105
+32,Davao Oriental,Mati,0.6,558958,"5,679.64 km2(2,192.92 sq mi)",98/km2(250/sq mi),8 May 1967,Mindanao,XI,10,1,183
+33,Dinagat Islands,San Jose,0.1,127152,"1,036.34 km2(400.13 sq mi)",120/km2(310/sq mi),2 Dec 2006,Mindanao,XIII,7,—,100
+34,Eastern Samar,Borongan,0.5,467160,"4,660.47 km2(1,799.42 sq mi)",100/km2(260/sq mi),19 Jun 1965,Visayas,VIII,22,1,597
+35,Guimaras,Jordan,0.2,174613,604.57 km2(233.43 sq mi),290/km2(750/sq mi),22 May 1992,Visayas,VI,5,—,98
+36,Ifugao,Lagawe,0.2,202802,"2,628.21 km2(1,014.76 sq mi)",77/km2(200/sq mi),18 Jun 1966,Luzon,CAR,11,—,175
+37,Ilocos Norte,Laoag,0.6,593081,"3,467.89 km2(1,338.96 sq mi)",170/km2(440/sq mi),2 Feb 1818,Luzon,I,21,2,557
+38,Ilocos Sur,Vigan,0.7,689668,"2,596.00 km2(1,002.32 sq mi)",270/km2(700/sq mi),1572,Luzon,I,32,2,768
+39,Iloilo[x],Iloilo City[21],2.4,2384415,"5,079.17 km2(1,961.08 sq mi)","470/km2(1,200/sq mi)",1566,Visayas,VI,42,2,1901
+40,Isabela[xi],Ilagan,1.6,1593566,"12,414.93 km2(4,793.43 sq mi)",130/km2(340/sq mi),1 May 1856,Luzon,II,34,3,1055
+41,Kalinga,Tabuk,0.2,212680,"3,231.25 km2(1,247.59 sq mi)",66/km2(170/sq mi),18 Jun 1966,Luzon,CAR,7,1,152
+42,La Union,San Fernando,0.8,786653,"1,497.70 km2(578.27 sq mi)","530/km2(1,400/sq mi)",2 Mar 1850,Luzon,I,19,1,576
+43,Laguna,Santa Cruz,3,3035081,"1,917.85 km2(740.49 sq mi)","1,600/km2(4,100/sq mi)",28 Jul 1571,Luzon,IV-A,24,6,674
+44,Lanao del Norte[xii],Tubod,1,1019013,"4,159.94 km2(1,606.16 sq mi)",240/km2(620/sq mi),4 Jul 1959,Mindanao,X,22,1,506
+45,Lanao del Sur,Marawi,1,1045429,"3,872.89 km2(1,495.33 sq mi)[23]",270/km2(700/sq mi),1 Sep 1914,Mindanao,BARMM,39,1,1159
+46,Leyte[xiii],Tacloban[21],1.9,1966768,"6,515.05 km2(2,515.47 sq mi)",300/km2(780/sq mi),1735,Visayas,VIII,40,3,1641
+47,Maguindanao[xiv],Buluan,1.5,1473371,"6,146.53 km2(2,373.19 sq mi)[24]",240/km2(620/sq mi),22 Nov 1973,Mindanao,BARMM,36,1,545
+48,Marinduque,Boac,0.2,234521,952.58 km2(367.79 sq mi),250/km2(650/sq mi),21 Feb 1920,Luzon,Mimaropa,6,—,218
+49,Masbate,Masbate City,0.9,892393,"4,151.78 km2(1,603.01 sq mi)",210/km2(540/sq mi),18 Mar 1901[25],Luzon,V,20,1,550
+50,Misamis Occidental,Oroquieta,0.6,602126,"2,055.22 km2(793.52 sq mi)",290/km2(750/sq mi),8 Nov 1929,Mindanao,X,14,3,490
+51,Misamis Oriental[xv],Cagayan de Oro[21],1.5,1564459,"3,544.32 km2(1,368.47 sq mi)","440/km2(1,100/sq mi)",15 May 1901,Mindanao,X,23,3,504
+52,Mountain Province,Bontoc,0.2,154590,"2,157.38 km2(832.97 sq mi)",72/km2(190/sq mi),1846,Luzon,CAR,10,—,144
+53,Negros Occidental[xvi],Bacolod[21],3,3059136,"7,965.21 km2(3,075.38 sq mi)",380/km2(980/sq mi),1 Jan 1890[26],Visayas,VI,19,13,662
+54,Negros Oriental,Dumaguete,1.3,1354995,"5,385.53 km2(2,079.36 sq mi)",250/km2(650/sq mi),1 Jan 1890[27],Visayas,VII,20,6,557
+55,Northern Samar,Catarman,0.6,632379,"3,692.93 km2(1,425.85 sq mi)",170/km2(440/sq mi),19 Jun 1965,Visayas,VIII,24,—,569
+56,Nueva Ecija,Palayan[xvii],2.1,2151461,"5,751.33 km2(2,220.60 sq mi)",370/km2(960/sq mi),25 Apr 1801[28],Luzon,III,27,5,849
+57,Nueva Vizcaya,Bayombong,0.4,452287,"3,975.67 km2(1,535.01 sq mi)",110/km2(280/sq mi),24 May 1839[29],Luzon,II,15,—,275
+58,Occidental Mindoro,Mamburao,0.5,487414,"5,865.71 km2(2,264.76 sq mi)",83/km2(210/sq mi),15 Nov 1950[30],Luzon,Mimaropa,11,—,162
+59,Oriental Mindoro,Calapan,0.8,844059,"4,238.38 km2(1,636.45 sq mi)",200/km2(520/sq mi),1663,Luzon,Mimaropa,14,1,426
+60,Palawan[xviii],Puerto Princesa[21],1.1,1104585,"17,030.75 km2(6,575.61 sq mi)",65/km2(170/sq mi),23 Jan 1902,Luzon,Mimaropa,23,1,433
+61,Pampanga[xix],San Fernando,2.6,2609744,"2,062.47 km2(796.32 sq mi)","1,300/km2(3,400/sq mi)",11 Dec 1571,Luzon,III,19,3,538
+62,Pangasinan[xx],Lingayen,2.9,2956726,"5,451.01 km2(2,104.65 sq mi)","540/km2(1,400/sq mi)",5 Apr 1580[31],Luzon,I,44,4,1364
+63,Quezon[xxi],Lucena[21],2.1,2122830,"9,069.60 km2(3,501.79 sq mi)",230/km2(600/sq mi),2 Mar 1901,Luzon,IV-A,39,2,1242
+64,Quirino,Cabarroguis,0.2,188991,"2,323.47 km2(897.10 sq mi)",81/km2(210/sq mi),18 Jun 1966,Luzon,II,6,—,132
+65,Rizal,Antipolo,2.9,2884227,"1,191.94 km2(460.21 sq mi)","2,400/km2(6,200/sq mi)",23 Feb 1853,Luzon,IV-A,13,1,188
+66,Romblon,Romblon,0.3,292781,"1,533.45 km2(592.07 sq mi)",190/km2(490/sq mi),16 Mar 1901[32],Luzon,Mimaropa,17,—,219
+67,Samar,Catbalogan,0.8,780481,"6,048.03 km2(2,335.16 sq mi)",130/km2(340/sq mi),1768,Visayas,VIII,24,2,951
+68,Sarangani,Alabel,0.5,544261,"3,601.25 km2(1,390.45 sq mi)",150/km2(390/sq mi),16 Mar 1992,Mindanao,XII,7,—,141
+69,Siquijor,Siquijor,0.1,95984,337.49 km2(130.31 sq mi),280/km2(730/sq mi),17 Sep 1971,Visayas,VII,6,—,134
+70,Sorsogon,Sorsogon City,0.8,792949,"2,119.01 km2(818.15 sq mi)",370/km2(960/sq mi),17 Oct 1894,Luzon,V,14,1,541
+71,South Cotabato[xxii],Koronadal,1.5,1509735,"4,428.81 km2(1,709.97 sq mi)",340/km2(880/sq mi),18 Jun 1966,Mindanao,XII,10,2,225
+72,Southern Leyte,Maasin,0.4,421750,"1,798.61 km2(694.45 sq mi)",230/km2(600/sq mi),22 May 1959,Visayas,VIII,18,1,500
+73,Sultan Kudarat,Isulan,0.8,812095,"5,298.34 km2(2,045.70 sq mi)",150/km2(390/sq mi),22 Nov 1973,Mindanao,XII,11,1,249
+74,Sulu,Jolo,0.8,824731,"1,600.40 km2(617.92 sq mi)[33]","520/km2(1,300/sq mi)",10 Mar 1917,Mindanao,BARMM,19,—,410
+75,Surigao del Norte,Surigao City,0.5,485088,"1,972.93 km2(761.75 sq mi)",250/km2(650/sq mi),15 May 1901,Mindanao,XIII,20,1,335
+76,Surigao del Sur,Tandag,0.6,592250,"4,932.70 km2(1,904.53 sq mi)",120/km2(310/sq mi),16 Jun 1960,Mindanao,XIII,17,2,309
+77,Tarlac,Tarlac City,1.4,1366027,"3,053.60 km2(1,179.00 sq mi)","450/km2(1,200/sq mi)",28 Mar 1873[34][35],Luzon,III,17,1,511
+78,Tawi-Tawi,Bongao[36],0.4,390715,"1,087.40 km2(419.85 sq mi)[37]",360/km2(930/sq mi),11 Sep 1973,Mindanao,BARMM,11,—,203
+79,Zambales[xxiii],Iba,0.8,823888,"3,830.83 km2(1,479.09 sq mi)",220/km2(570/sq mi),1578,Luzon,III,13,1,247
+80,Zamboanga del Norte,Dipolog,1,1011393,"7,301.00 km2(2,818.93 sq mi)",140/km2(360/sq mi),6 Jun 1952,Mindanao,IX,25,2,691
+81,Zamboanga del Sur[xxiv],Pagadian,1.9,1872473,"5,914.16 km2(2,283.47 sq mi)",320/km2(830/sq mi),1 Sep 1914,Mindanao,IX,26,2,779
+82,Zamboanga Sibugay,Ipil,0.6,633129,"3,607.75 km2(1,392.96 sq mi)",180/km2(470/sq mi),22 Feb 2001,Mindanao,IX,16,—,389
+83,Metro Manila,Manila †,12.8,12877253,638.55 km2(246.55 sq mi),"20,000/km2(52,000/sq mi)",—,Luzon,NCR[B],1,16,1706
+84,"
+
+^ Dates could refer to provincehood as established during the Spanish period, American period, or through Republic Acts.
+
+^ Metro Manila is included for comparison although it is not a province but an administrative region.
+
+",,,,,,,,,,,
+85,"
+Table notes[edit]
+
+
+^ Figures include the independent city of Butuan.
+
+^ Cabadbaran has been made the official capital of the province, as per Republic Act No. 8811. However, the seat of the provincial government is still in the process of being transferred from Butuan, where the provincial government still holds office.
+
+^ The province maintains another government center in Luna, where many national and provincial agencies now hold office.[11]
+
+^ Figures include the city of Isabela.
+
+^ The city of Isabela is regionally served by the offices of Region IX.
+
+^ Figures include the independent city of Baguio.
+
+^ Figures include the independent city of Naga.
+
+^ Figures include the independent cities of Cebu, Lapu-Lapu and Mandaue.
+
+^ Figures include the independent city of Davao.
+
+^ Figures include the independent city of Iloilo.
+
+^ Figures include the independent city of Santiago.
+
+^ Figures include the independent city of Iligan.
+
+^ Figures include the independent cities of Ormoc and Tacloban.
+
+^ Figures include the independent city of Cotabato.
+
+^ Figures include the independent city of Cagayan de Oro.
+
+^ Figures include the independent city of Bacolod.
+
+^ The provincial government still uses and maintains facilities in the former capital, Cabanatuan.
+
+^ Figures include the independent city of Puerto Princesa.
+
+^ Figures include the independent city of Angeles.
+
+^ Figures include the independent city of Dagupan.
+
+^ Figures include the independent city of Lucena.
+
+^ Figures include the independent city of General Santos.
+
+^ Figures include the independent city of Olongapo.
+
+^ Figures include the independent city of Zamboanga.
+
+",,,,,,,,,,,

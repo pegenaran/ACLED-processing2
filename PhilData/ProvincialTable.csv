@@ -1,0 +1,83 @@
+Province,Capital,Population,Area,Density,Founded,Island_group,Region,Mun_LGUs,City_LGUs,Brgy_LGUs
+Abra,Bangued,241160,4165.25,58,1846,Luzon,CAR,27,—,303
+Agusan del Norte ,Cabadbaran,691566,3546.86,190,20 Sep 1907,Mindanao,XIII,10,2,252
+Agusan del Sur,Prosperidad,700653,9989.52,70,1 Jan 1970,Mindanao,XIII,13,1,314
+Aklan,Kalibo,574823,1821.42,320,8 Nov 1956,Visayas,VI,17,—,327
+Albay,Legazpi,1314826,2575.77,510,3 Apr 1574,Luzon,V,15,3,720
+Antique,San Jose de Buenavista,582012,2729.17,210,10 Mar 1917,Visayas,VI,18,—,590
+Apayao,Kabugao,119184,4413.35,27,14 Feb 1995,Luzon,CAR,7,—,133
+Aurora,Baler,214336,3147.32,68,13 Aug 1979,Luzon,III,8,—,151
+Basilan,Lamitan,459367,1327.23,350,27 Dec 1973,Mindanao,BARMM,11,2,255
+Bataan,Balanga,760650,1372.98,550,1754,Luzon,III,11,1,237
+Batanes,Basco,17246,219.01,79,26 Jun 1783,Luzon,II,6,—,29
+Batangas,Batangas City,2694335,3119.72,860,8 Dec 1581,Luzon,IV-A,31,3,1078
+Benguet,La Trinidad,791590,2826.59,280,16 Jun 1966,Luzon,CAR,13,1,269
+Biliran,Naval,171612,536.01,320,11 May 1992,Visayas,VIII,8,—,132
+Bohol,Tagbilaran,1313560,4820.95,270,22 Jul 1854,Visayas,VII,47,1,1109
+Bukidnon,Malaybalay,1415226,10498.59,130,10 Mar 1917,Mindanao,X,20,2,464
+Bulacan,Malolos,3292071,2796.1,1200,15 Aug 1578,Luzon,III,21,3,569
+Cagayan,Tuguegarao,1199320,9295.75,130,29 Jun 1583,Luzon,II,28,1,820
+Camarines Norte,Daet,583313,2320.07,250,15 Apr 1920,Luzon,V,12,—,282
+Camarines Sur,Pili,1952544,5497.03,360,27 May 1579,Luzon,V,35,2,1063
+Camiguin,Mambajao,88478,237.95,370,18 Jun 1966,Mindanao,X,5,—,58
+Capiz,Roxas,761384,2594.64,290,10 Mar 1917,Visayas,VI,16,1,473
+Catanduanes,Virac,260964,1492.16,170,26 Sep 1945,Luzon,V,11,—,315
+Cavite,Imus,3678301,1574.17,2300,10 Mar 1614,Luzon,IV-A,17,6,829
+Cebu,Cebu City,4632359,5342,870,27 Apr 1565,Visayas,VII,44,9,1203
+Cotabato,Kidapawan,1379747,9008.9,150,1 Sep 1914,Mindanao,XII,17,1,543
+Davao de Oro,Nabunturan,736107,4479.77,160,31 Jan 1998,Mindanao,XI,11,—,237
+Davao del Norte,Tagum,1016332,3426.97,300,8 May 1967,Mindanao,XI,8,3,223
+Davao del Sur,Digos,2265579,4607.59,490,1 Sep 1914,Mindanao,XI,9,2,414
+Davao Occidental,Malita,316342,2163.45,150,28 Oct 2013,Mindanao,XI,5,—,105
+Davao Oriental,Mati,558958,5679.64,98,8 May 1967,Mindanao,XI,10,1,183
+Dinagat Islands,San Jose,127152,1036.34,120,2 Dec 2006,Mindanao,XIII,7,—,100
+Eastern Samar,Borongan,467160,4660.47,100,19 Jun 1965,Visayas,VIII,22,1,597
+Guimaras,Jordan,174613,604.57,290,22 May 1992,Visayas,VI,5,—,98
+Ifugao,Lagawe,202802,2628.21,77,18 Jun 1966,Luzon,CAR,11,—,175
+Ilocos Norte,Laoag,593081,3467.89,170,2 Feb 1818,Luzon,I,21,2,557
+Ilocos Sur,Vigan,689668,2596,270,1572,Luzon,I,32,2,768
+Iloilo,Iloilo City,2384415,5079.17,470,1566,Visayas,VI,42,2,1901
+Isabela,Ilagan,1593566,12414.93,130,1 May 1856,Luzon,II,34,3,1055
+Kalinga,Tabuk,212680,3231.25,66,18 Jun 1966,Luzon,CAR,7,1,152
+La Union,San Fernando,786653,1497.7,530,2 Mar 1850,Luzon,I,19,1,576
+Laguna,Santa Cruz,3035081,1917.85,1600,28 Jul 1571,Luzon,IV-A,24,6,674
+Lanao del Norte,Tubod,1019013,4159.94,240,4 Jul 1959,Mindanao,X,22,1,506
+Lanao del Sur,Marawi,1045429,3872.89,270,1 Sep 1914,Mindanao,BARMM,39,1,1159
+Leyte,Tacloban,1966768,6515.05,300,1735,Visayas,VIII,40,3,1641
+Maguindanao,Buluan,1473371,6146.53,240,22 Nov 1973,Mindanao,BARMM,36,1,545
+Marinduque,Boac,234521,952.58,250,21 Feb 1920,Luzon,Mimaropa,6,—,218
+Masbate,Masbate City,892393,4151.78,210,18 Mar 1901,Luzon,V,20,1,550
+Misamis Occidental,Oroquieta,602126,2055.22,290,8 Nov 1929,Mindanao,X,14,3,490
+Misamis Oriental,Cagayan de Oro,1564459,3544.32,440,15 May 1901,Mindanao,X,23,3,504
+Mountain Province,Bontoc,154590,2157.38,72,1846,Luzon,CAR,10,—,144
+Negros Occidental,Bacolod,3059136,7965.21,380,1 Jan 1890,Visayas,VI,19,13,662
+Negros Oriental,Dumaguete,1354995,5385.53,250,1 Jan 1890,Visayas,VII,20,6,557
+Northern Samar,Catarman,632379,3692.93,170,19 Jun 1965,Visayas,VIII,24,—,569
+Nueva Ecija,Palayan,2151461,5751.33,370,25 Apr 1801,Luzon,III,27,5,849
+Nueva Vizcaya,Bayombong,452287,3975.67,110,24 May 1839,Luzon,II,15,—,275
+Occidental Mindoro,Mamburao,487414,5865.71,83,15 Nov 1950,Luzon,Mimaropa,11,—,162
+Oriental Mindoro,Calapan,844059,4238.38,200,1663,Luzon,Mimaropa,14,1,426
+Palawan,Puerto Princesa,1104585,17030.75,65,23 Jan 1902,Luzon,Mimaropa,23,1,433
+Pampanga,San Fernando,2609744,2062.47,1300,11 Dec 1571,Luzon,III,19,3,538
+Pangasinan,Lingayen,2956726,5451.01,540,5 Apr 1580,Luzon,I,44,4,1364
+Quezon,Lucena,2122830,9069.6,230,2 Mar 1901,Luzon,IV-A,39,2,1242
+Quirino,Cabarroguis,188991,2323.47,81,18 Jun 1966,Luzon,II,6,—,132
+Rizal,Antipolo,2884227,1191.94,2400,23 Feb 1853,Luzon,IV-A,13,1,188
+Romblon,Romblon,292781,1533.45,190,16 Mar 1901,Luzon,Mimaropa,17,—,219
+Samar,Catbalogan,780481,6048.03,130,1768,Visayas,VIII,24,2,951
+Sarangani,Alabel,544261,3601.25,150,16 Mar 1992,Mindanao,XII,7,—,141
+Siquijor,Siquijor,95984,337.49,280,17 Sep 1971,Visayas,VII,6,—,134
+Sorsogon,Sorsogon City,792949,2119.01,370,17 Oct 1894,Luzon,V,14,1,541
+South Cotabato,Koronadal,1509735,4428.81,340,18 Jun 1966,Mindanao,XII,10,2,225
+Southern Leyte,Maasin,421750,1798.61,230,22 May 1959,Visayas,VIII,18,1,500
+Sultan Kudarat,Isulan,812095,5298.34,150,22 Nov 1973,Mindanao,XII,11,1,249
+Sulu,Jolo,824731,1600.4,520,10 Mar 1917,Mindanao,BARMM,19,—,410
+Surigao del Norte,Surigao City,485088,1972.93,250,15 May 1901,Mindanao,XIII,20,1,335
+Surigao del Sur,Tandag,592250,4932.7,120,16 Jun 1960,Mindanao,XIII,17,2,309
+Tarlac,Tarlac City,1366027,3053.6,450,28 Mar 1873,Luzon,III,17,1,511
+Tawi-Tawi,Bongao,390715,1087.4,360,11 Sep 1973,Mindanao,BARMM,11,—,203
+Zambales,Iba,823888,3830.83,220,1578,Luzon,III,13,1,247
+Zamboanga del Norte,Dipolog,1011393,7301,140,6 Jun 1952,Mindanao,IX,25,2,691
+Zamboanga del Sur,Pagadian,1872473,5914.16,320,1 Sep 1914,Mindanao,IX,26,2,779
+Zamboanga Sibugay,Ipil,633129,3607.75,180,22 Feb 2001,Mindanao,IX,16,—,389
+Metro Manila,Manila †,12877253,638.55,20000,—,Luzon,NCR,1,16,1706
