@@ -4,11 +4,8 @@ import numpy as np
 import csv
 import importlib
 import RaptVectUtils
-importlib.reload(RaptVectUtils)
 import phil_globalvars
-importlib.reload(phil_globalvars)
 import event_utils
-importlib.reload(event_utils)
 from RaptVectUtils import *
 from phil_globalvars import *
 from event_utils import *
@@ -32,22 +29,13 @@ admin3_list = sort_rmv_dupl(df.admin3.tolist())
 # then lat and long give the precise location
 # the database can be segregated according to these geographical delineations
 
-# print_multcols_list(cols, 4, numexpand=30, include_idx=True)
-# print()
-# print_multcols_list(event_types, 2, numexpand=55)
-# print()
-# print_multcols_list(admin2_list, 3, numexpand=30)
-# print()
-# print_multcols_list(admin3_list, 3, numexpand=35)
-# print()
-# df[['inter2','event_date','event_type','year','timestamp','admin1']].tail()
-
-def initialize_event_df(main_df):
+def initialize_event_df(main_df, countryfocus):
     event_df = main_df.copy()
     event_df = main_df[colstouse].copy()
     event_df.event_date = pd.to_datetime(event_df.event_date, format='%d %B %Y').dt.date
     event_df.set_index('event_date', inplace=True)
     event_df.sort_index(inplace=True)
+    # for the Philippines, admin1 column is a region with specific codes
     event_df['Reg_code'] = event_df.admin1
     event_df.Reg_code.replace(regnames_map2, inplace=True)
     event_df['Region'] = np.where(
@@ -62,14 +50,15 @@ def initialize_event_df(main_df):
     event_df['comp_assoc_act1'] = assoc_actor1_complist
     event_df['comp_act2'] = actor2_complist
     event_df['comp_assoc_act2'] = assoc_actor2_complist
-    event_df.rename(columns={'admin2':'Province',
-          'admin3':'Municipality',
-          'location':'Baranggay'}, inplace=True)
+    # event_df.rename(columns={'admin2':'Province',
+    #       'admin3':'Municipality',
+    #       'location':'Baranggay'}, inplace=True)
+    event_df.rename(columns=col_renames[countryfocus], inplace=True)
     
     return event_df[cols_order]
 
 def get_months():
-    date_df = pd.read_csv(phildata_stem + 'dateseg.csv')
+    date_df = pd.read_csv('dateseg.csv')
     date_df.startdate = pd.to_datetime(date_df.startdate, format="%Y-%m-%d").dt.date
     date_df.enddate = pd.to_datetime(date_df.enddate, format="%Y-%m-%d").dt.date
     date_df.set_index('startdate', inplace=True)
@@ -77,7 +66,7 @@ def get_months():
 
 def make_monthly_divs(main_df):
     today = dt.datetime.now().date()
-    event_df = initialize_event_df(main_df)
+    event_df = initialize_event_df(main_df, 'Philippines')
     date_df = get_months()
     
     for sd in date_df.index.tolist():
@@ -111,8 +100,8 @@ def filter_event_choices(event_df):
     
     return colhdr, coltype
 
-def num_events_bydate(main_df):
-    event_df = initialize_event_df(main_df)
+def num_events_bydate(main_df, countryfocus):
+    event_df = initialize_event_df(main_df, countryfocus)
     date_df = get_months()
     colhdr, coltype = filter_event_choices(event_df)
     
@@ -146,8 +135,8 @@ def filter_single_month(mmonth_df, colfiltlist, filtnum):
             mmonth_df = mmonth_df.loc[mmonth_df[colfiltlist[f][0]] == colfiltlist[f][1]]
     return mmonth_df
 
-def mult4_filt(main_df):
-    event_df = initialize_event_df(main_df)
+def mult4_filt(main_df, countryfocus):
+    event_df = initialize_event_df(main_df, countryfocus)
     date_df = get_months()
     colfiltlist, filtnum = choose_multfilt(event_df)
     
@@ -195,9 +184,9 @@ def mult4_filt(main_df):
     print('\nThese are the variety of hits over the entire period for the Number of ' + dispcol1 + ':')
     print_multcols_list(seg_participants, 3, numexpand=35, use_limit=True)
 
-def view_single_month_filt(main_df):
+def view_single_month_filt(main_df, countryfocus):
     pd.set_option("display.max_colwidth", 35)
-    event_df = initialize_event_df(main_df)
+    event_df = initialize_event_df(main_df, countryfocus)
     cols = event_df.columns.tolist()
     date_df = get_months()
     colfiltlist, filtnum = choose_multfilt(event_df)
@@ -262,8 +251,8 @@ if __name__ == "__main__":
         print()
         menuch = Get_str_ch_loc(menustr,'Pick a number: ', list_to_strlist(list(range(len(mystr_list)))))
         if menuch == '1':
-            mult4_filt(df)
+            mult4_filt(df, countryfocus='Philippines')
         elif menuch == '2':
-            view_single_month_filt(df)
+            view_single_month_filt(df, countryfocus='Philippines')
         elif menuch == '3':
             exit()

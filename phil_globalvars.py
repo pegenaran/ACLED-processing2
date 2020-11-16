@@ -50,4 +50,13 @@ cols_order = ['event_type','sub_event_type','actor1','assoc_actor_1',
     'latitude','longitude','geo_precision','source','source_scale',
     'fatalities','notes']
 
-phildata_stem = 'PhilData/'
+col_renames = {
+    'Philippines': {
+        'admin2':'Province',
+          'admin3':'Municipality',
+          'location':'Baranggay'
+    }
+}
+
+# phildata_stem = 'PhilData/'
+phildata_stem = 'Philippines/'
